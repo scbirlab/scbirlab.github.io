@@ -2,7 +2,8 @@
 title: Contact
 ---
 
-(Contact)=
+(contact)=
+
 # Contact
 
 {octicon}`mail;1em` [eachan.johnson@crick.ac.uk](mailto:eachan.johnson@crick.ac.uk)

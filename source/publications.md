@@ -2,9 +2,11 @@
 title: Publications
 ---
 
+(publications)=
+
 # Publications
 
-If you need access to a PDF, get in [contact](Contact).
+If you need access to a PDF, get in [contact](contact).
 
 ## While at the Francis Crick Institute (2021–)
 

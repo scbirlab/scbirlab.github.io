@@ -4,12 +4,51 @@ title: Homepage
 
 # SCBIRLab
 
-We study how pathogenic bacteria survive and infect, using the chemical biology toolbox 
-to define bacterial gene functions and explore networks of gene-gene functional interdependencies.
+We study how pathogenic bacteria infect and evolve resistance, using large-scale genetics and the chemical biology toolbox.
 
-We apply this systems chemical biology approach to understand infection and resistance: 
-the resilience of bacterial pathogens during infection processes and their genetic flexibility to 
-escape antibiotic challenge.
+::::{grid} 1 2 3 4
+:gutter: 2
+
+:::{grid-item-card}
+:link: research
+:link-type: ref
+Research
+^^^
+{octicon}`beaker;10em;sd-text-info`
+:::
+
+:::{grid-item-card}
+:link: team
+:link-type: ref
+Team
+^^^
+{octicon}`people;10em;sd-text-info`
+:::
+
+:::{grid-item-card}
+:link: publications
+:link-type: ref
+Publications
+^^^
+{octicon}`book;10em;sd-text-info`
+:::
+
+:::{grid-item-card}
+:link: software
+:link-type: ref
+Software
+^^^
+{octicon}`cpu;10em;sd-text-info`
+:::
+
+:::{grid-item-card}
+:link: contact
+:link-type: ref
+Contact
+^^^
+{octicon}`mail;10em;sd-text-info`
+:::
+::::
 
 ```{toctree}
 :maxdepth: 1
@@ -19,5 +58,6 @@ escape antibiotic challenge.
 research
 team
 publications
+software
 contact
 ```

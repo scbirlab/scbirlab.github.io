@@ -2,34 +2,61 @@
 title: Research
 ---
 
+(research)=
+
 # Research
 
-**We study how pathogenic bacteria survive and infect, using chemical biology and genetic tools to define gene functions and gene-gene interdependencies. Ultimately, we aim to enable antimicrobial therapies which exploit key weaknesses in the ability of pathogenic bacteria to evolve resistance to antibiotics.**
+**We study how pathogenic bacteria infect and evolve resistance, using large-scale genetics and chemical biology.**
 
-We primarily study Mycobacterium tuberculosis, the causative agent of tuberculosis (TB), a top-10 cause of death globally which kills around 1.5 million people each year.
+**Ultimately, we aim to enable antimicrobial therapies which exploit key weaknesses in the ability of pathogenic bacteria to infect and evolve resistance to antibiotics.**
 
-As soon as new antimicrobial drugs are discovered and used in the clinic, pathogenic bacteria inevitably evolve resistance, driving an unsustainable cycle threatening the twentieth century’s improvements to public health. Antibiotics revolutionized modern medicine, but once again millions of lives are threatened by pathogenic bacteria like M. tuberculosis. 
+As soon as new antimicrobial drugs are discovered and used in the clinic, pathogenic bacteria inevitably evolve resistance, driving an unsustainable cycle threatening the twentieth century’s improvements to public health.
 
-Working at the interface of genetics, chemistry, and machine learning, we use chemical “probes” or “perturbagens” to systematically and precisely disrupt the cellular machinery of pathogenic bacteria and study the consequences of this disruption on their ability to survive, infect, and resiliently evolve resistance.
+:::{card} Bacteria evolve resistance faster than we can discover new antimicrobial classes.
+:img-top: _static/research/r-curves.png
 
-With this approach, we seek to bridge the gap between understanding pathogen biology and designing new therapeutic strategies. 
+_Grey_: Number of antibiotic classes discovered. The curve is modelled as the coupon collector problem, illustrating diminishing returns as we search the same targets and chemical space.
 
-## Approaches
+_Red_: Number of antibiotic classes with clinical resistance. The curve is modelled as exponential decay with a time constant of ~10 years from discovery.
+
+_Blue_: Number of antibiotic classes without clinical resistance. This curve is the difference between the grey and red curves.
+
++++
+Data from [Stennett, Back, Race, _Antibiotics_, 2022](https://doi.org/10.3390/antibiotics11091237).
+:::
+
+Working at the interface of genetics, chemistry, and machine learning we aim to accelerate the discovery of new chemical probes that precisely disrupt the cellular machinery of pathogenic bacteria, including _Mycobacterium tuberculosis_ and _Klebsiella pneumoniae_. With such a toolbox, our goal is to prototype new therapies which interfere with the ability of pathogenic bacteria to survive, infect, and evolve resistance to antibiotics.
+
+With this **systems chemical biology** approach, we seek to bridge the gap between understanding pathogen biology and designing new therapeutic strategies. 
+
+:::{card} Systems chemical biology approaches.
+:img-top: _static/publications/review-Fig2.png
 
 Small molecules complement genetics because they are easily applied to disparate cell types and species, precisely perturb specific functions of multifunctional gene products, and directly bridge the gap between implication of genes in disease and new therapeutics.
 
-Starting with M. tuberculosis, we aim to systematically apply small molecules with diverse cellular targets to define the molecular and systems biology of gene functions essential for pathogen survival during infection.
++++
+Figure from [Johnson, Hung, _ACS Chemical Biology_, 2020](https://doi.org/10.1021/acschembio.9b00714)
+:::
 
-![](_static/publications/review-Fig2.png)
+## Accelerating discovery of new small molecules with new targets
 
-### Defining genetic interdependencies and gene functions essential for pathogen survival
+We aim to develop a toolbox of chemical probes which are active in pathogenic bacteria and which represent diverse, well defined targets.
 
-To a first approximation, genetic perturbation simulates small molecule perturbation of gene products. Quantitative phenotyping of double perturbations (gene-gene interactions and chemical-genetic interactions) reveal functional interdependencies essential for pathogen survival, which remain uncharacterized in most non-model pathogenic bacteria.
+### Rapid target annotation
 
-### Accelerating discovery of new molecular tools for understanding infection
+To discover new small molecule perturbagens which act on bacteria against novel targets, we use a chemical-genetic platform called PROSPECT, which uses essential gene mutants’ hypersensitivity to assign targets to new bioactive small molecules. This hypersensitity also allows detection of low potency small molecules which can be later optimised, enabling sparse exploration of chemical space for unexpected new inhibitors of pathogenic bacteria.
 
-There are no heuristics analogous to Lipinski’s Rules (forming a cheminformatic definition of “drug-like” molecules) defining the typical chemical space of small molecules which might be active in bacteria. To discover new small molecule perturbagens which act on bacteria against novel targets, we use essential gene mutants’ hypersensitivity toward low potency small molecules both to enable sparse exploration of vast chemical space, and to assign targets to new bioactive small molecules. We also aim to use machine learning to help guide this exploration.
+:::{card} Overview of the PROSPECT workflow.
+:img-top: _static/publications/Fig2.png
 
-### Defining pharmacological and functional determinants of infection outcomes
++++
+Figure from [Johnson, Hung, _Methods in Molecular Biology_, 2021](https://doi.org/10.1007/978-1-0716-1460-0_15)
+:::
 
-Small molecule perturbations can be dynamic and heterogeneous in time and space; these properties match the dynamics and heterogeneity of infection processes. Chemical perturbagens are therefore an invaluable complement to conventional genetics for dissecting dynamic and heterogeneous host-pathogen interactions.
+### Optimising chemical library design
+
+There are no heuristics analogous to Lipinski’s Rules (forming a cheminformatic definition of “drug-like” molecules) defining the typical chemical space of small molecules which might be active in bacteria. We are using the hypersensitivity of genetic knock-down strains to detect even very low-potency small molecules in order to generate rich, high quality datasets for understanding the chemical features of molecules which inhibit bacterial growth. With this understanding, we aim to design chemical libraries which are optimised for new antibiotic discovery.
+
+## Defining targets for bacterial survival and infection
+
+Alongside developing a chemical probe toolbox, we are usign forward genetics to define targets in pathogenic bacteria which allow them to infect and evolve resistance. With these targets and a toolbox of chemical probes, we will be able to demonstrate new therapeutic modalities, including combination therapies and non-small molecule therapies, which manipulate the ability of pathogenic bacteria to infect and evolve resistance.
