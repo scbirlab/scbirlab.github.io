@@ -2,9 +2,9 @@
 title: Homepage
 ---
 
-# SCBIRLab
+# Systems Chemical Biology of Infection and Resistance Laboratory
 
-We study how pathogenic bacteria infect and evolve resistance, using large-scale genetics and the chemical biology toolbox.
+**The SCBIR lab is based the [Francis Crick Institute](https://crick.ac.uk) in London. We use large-scale genetics and chemical biology to study how pathogenic bacteria infect and evolve resistance to antibiotics.**
 
 ::::{grid} 1 2 3 4
 :gutter: 2
