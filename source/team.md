@@ -6,7 +6,7 @@ title: Team
 
 # Team
 
-## Current lab memebers
+## Current lab members
 
 ::::{grid} 1 2 3 4
 :gutter: 2
