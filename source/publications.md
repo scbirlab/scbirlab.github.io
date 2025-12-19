@@ -25,7 +25,7 @@ _Biochemical Journal_, Jul 2024, 481(13):839-864 \
 PubMed ID: [38958473](https://pubmed.ncbi.nlm.nih.gov/38958473/)
 PubMed Central ID: [PMC11346456](https://pmc.ncbi.nlm.nih.gov/articles/PMC11346456/)
 
-![timeline](_static/publications/r-curves.png)
+![resistance curves](_static/publications/parkhill2024-Figure5.png){w=500}
 :::
 
 :::{card} 
@@ -61,7 +61,7 @@ PubMed ID: [34235661](https://pubmed.ncbi.nlm.nih.gov/34235661/)
 _ACS Infectious Diseases_, Jan 2020, 6(1), 56–63 \
 PubMed ID: [31721551](https://pubmed.ncbi.nlm.nih.gov/31721551/)
 
-![BRD-8000.3 and BRD-9327 EfpA](_static/publications/GTOC-copy.png)
+![BRD-8000.3 and BRD-9327 EfpA](_static/publications/GTOC-copy.png){w=400}
 :::
 
 :::{card} 
