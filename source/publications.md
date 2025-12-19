@@ -11,9 +11,27 @@ If you need access to a PDF, get in [contact](contact).
 ## While at the Francis Crick Institute (2021–)
 
 :::{card} 
+[Light-Activated Metal-Dependent Protein Degradation: A Heterobifunctional Ruthenium(II) Photosensitizer Targeting New Delhi Metallo-β-lactamase 1](https://doi.org/10.1021/jacs.5c12405) \
+Stevens-Cullinane L, Rees TW, **_Evans C_**, Ho PY, Kintzel M, Yip YM, Jia R, Bailey J, Clifford E, Alam R, Maslen S, Mouilleron S, Pasquier A, Song OR, Warchal S, Redmond J, Howell M, Kjær S, Skehel M, Müller MM, **Johnson EO**, Roessler MM, Hess J. \
+_Journal of the American Chemical Society_, Dec 2025, 147(49):44860-44874 \
+PubMed ID: [41308195](https://pubmed.ncbi.nlm.nih.gov/41308195/)
+PubMed Central ID: [PMC12703741](https://pmc.ncbi.nlm.nih.gov/articles/PMC12703741/)
+:::
+
+:::{card} 
+[Integrating bacterial molecular genetics with chemical biology for renewed antibacterial drug discovery](https://doi.org/10.1042/BCJ20220062) \
+**_Susannah L Parkhill_**, **Eachan O Johnson** \
+_Biochemical Journal_, Jul 2024, 481(13):839-864 \
+PubMed ID: [38958473](https://pubmed.ncbi.nlm.nih.gov/38958473/)
+PubMed Central ID: [PMC11346456](https://pmc.ncbi.nlm.nih.gov/articles/PMC11346456/)
+
+![timeline](_static/publications/r-curves.png)
+:::
+
+:::{card} 
 [Chemical Validation of Mycobacterium tuberculosis Phosphopantetheine Adenylyltransferase Using Fragment Linking and CRISPR Interference](https://doi.org/10.1002/anie.202300221) \
 Jamal El Bakali, Michal Blaszczyk, **_Joanna C Evans_**, Jennifer A Boland, William J McCarthy, Imam Fathoni, Marcio V B Dias, **Eachan O Johnson**, Anthony G Coyne, Valerie Mizrahi, Tom L Blundell, Chris Abell, Christina Spry \
-_Frontiers in Cellular and Infection Microbiology_, Oct 2022, 12: 954074 \
+_Angewandte Chemie_, Feb 2023, 62(17): e202300221 \
 PubMed ID: [36757665](https://pubmed.ncbi.nlm.nih.gov/36757665/)
 :::
 
