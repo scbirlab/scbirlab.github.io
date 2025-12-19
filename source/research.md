@@ -13,16 +13,16 @@ title: Research
 As soon as new antimicrobial drugs are discovered and used in the clinic, pathogenic bacteria inevitably evolve resistance, driving an unsustainable cycle threatening the twentieth century’s improvements to public health.
 
 :::{card} Bacteria evolve resistance faster than we can discover new antimicrobial classes.
-:img-top: _static/research/r-curves.png
+:img-top: _static/research/parkhill2024-Fig1.png
 
-_Grey_: Number of antibiotic classes discovered. The curve is modelled as the coupon collector problem, illustrating diminishing returns as we search the same targets and chemical space.
+(A) The time between discovery and resistance detection compared with the discovery year for classes of antibacterial drugs. Colour indicates the time between discovery and clinical use. Outliers in time to resistance (labelled with a canonical example in parentheses) are characterised by a longer gap between discovery and clinical use. 
 
-_Red_: Number of antibiotic classes with clinical resistance. The curve is modelled as exponential decay with a time constant of ~10 years from discovery.
+(B) The distribution of time between discovery and resistance for classes of antibacterial drugs follows an exponential distribution (Poisson maximum likelihood fit shown by blue line), with a half-life of ∼15 years (95% confidence interval: 10–20 years). 
 
-_Blue_: Number of antibiotic classes without clinical resistance. This curve is the difference between the grey and red curves.
+(C) Poisson maximum likelihood best fits for the dynamics of antibacterial drug discovery. The number of classes with resistance not-yet-detected (blue line) as a function of time was modelled as the difference between the number of discovered classes, D (grey line), and the number of classes with detected resistance, R (orange line). R was modelled as exponential growth with rate 1/t1/2. D was modelled as the coupon collector problem when sampling from k antibacterial drug classes at a constant rate n after a ∼28 year lag phase, tlag. Data were obtained from [Stennett, Back, Race, _Antibiotics_, 2022](https://doi.org/10.3390/antibiotics11091237).
 
 +++
-Data from [Stennett, Back, Race, _Antibiotics_, 2022](https://doi.org/10.3390/antibiotics11091237).
+Figure from [Parkhill, Johnson, _Biochemical Jorunal_, 2024](https://doi.org/10.1042/BCJ20220062)
 :::
 
 Working at the interface of genetics, chemistry, and machine learning we aim to accelerate the discovery of new chemical probes that precisely disrupt the cellular machinery of pathogenic bacteria, including _Mycobacterium tuberculosis_ and _Klebsiella pneumoniae_. With such a toolbox, our goal is to prototype new therapies which interfere with the ability of pathogenic bacteria to survive, infect, and evolve resistance to antibiotics.
