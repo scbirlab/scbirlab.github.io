@@ -7,9 +7,9 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'scbirlab.github.io'
-copyright = '2023, SCBIRLab'
+copyright = '2025, SCBIRLab'
 author = 'SCBIRLab'
-release = '0.0.1'
+release = '0.0.2'
 
 master_doc = "index"
 
@@ -50,7 +50,7 @@ html_static_path = ['_static']
 
 html_theme_options = {
     "repository_url": "https://github.com/scbirlab/scbirlab.github.io",
-    "repository_branch": "master",
+    "repository_branch": "main",
     "use_repository_button": True,
     "use_download_button": False,
     "use_fullscreen_button": False,
