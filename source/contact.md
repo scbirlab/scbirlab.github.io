@@ -8,7 +8,7 @@ title: Contact
 
 {octicon}`mail;1em` [eachan.johnson@crick.ac.uk](mailto:eachan.johnson@crick.ac.uk)
 
-{octicon}`comment-discussion;1em` [@eachanjohnson](https://twitter.com/eachanjohnson)
+{octicon}`comment-discussion;1em` [Bluesky @eachan.scbir.org](https://bsky.app/profile/eachan.scbir.org)
 
 {octicon}`location;1em`
 ::::{grid} 2
